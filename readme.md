@@ -1,3 +1,5 @@
+<img src="img/preview.jpg" alt="Earth Preview" />
+
 # Three.js TSL
 
 ## Setup
